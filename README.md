@@ -1,7 +1,7 @@
 # Oriented RepPoints for Aerial Object Detection
 
 # Installation
-Please refer to ![install.md](https://github.com/LiWentomng/OrientedRepPoints/blob/main/docs/install.md) for installation and dataset preparation.
+Either refer to ![install.md](https://github.com/LiWentomng/OrientedRepPoints/blob/main/docs/install.md) for installation and dataset preparation or build a conda environment from orp_env.yml
 
 
 # Getting Started 
