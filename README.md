@@ -16,6 +16,14 @@ The results on DOTA test set are shown in the table below. More detailed results
  OrientedReppoints| R-101| |76.52 |[model](https://drive.google.com/file/d/1otXS3w0LVopsBKxyYbyQhF6mFDtTIJFX/view?usp=sharing) | [log](https://drive.google.com/file/d/1MgJ7A9INaP3iocy1MQSS1SA6gyIvnTJX/view?usp=sharing)
  OrientedReppoints| Swin-Tiny|  √  | 78.11|[model](https://drive.google.com/file/d/1B03dBSXU9GFGRM8XiyQo2aw6yGnCgB8r/view?usp=sharing) | [log](https://drive.google.com/file/d/1lt5UkBPVM7am6asySRWohXSRK_tGwxV8/view?usp=sharing)
 
+# Few Shot Learning with OrientedRepPoints on Omniglot Data
+
+Run the jupyter notebook FSL_OrientedRepPoints_Omniglot.ipynb
+
+# Few Shot Learning with OrientedRepPoints on our Custom Energy Infrastructure Data
+
+Run the jupyter notebook FSL_OrientedRepPoints_custom.ipynb
+
 
 #  Acknowledgements
 Here are some great resources we benefit. We would espeicially thank the authors of:
