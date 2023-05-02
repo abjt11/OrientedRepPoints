@@ -18,11 +18,13 @@ The results on DOTA test set are shown in the table below. More detailed results
 
 # Few Shot Learning with OrientedRepPoints on Omniglot Data
 
-Run the jupyter notebook FSL_OrientedRepPoints_Omniglot.ipynb
+1. Place the data folder according to the notebook data folder setting or configure the data path
+2. Run the jupyter notebook FSL_OrientedRepPoints_Omniglot.ipynb
 
 # Few Shot Learning with OrientedRepPoints on our Custom Energy Infrastructure Data
 
-Run the jupyter notebook FSL_OrientedRepPoints_custom.ipynb
+1. Place the data folder according to the notebook data folder setting or configure the data path
+2. Run the jupyter notebook FSL_OrientedRepPoints_Custom.ipynb
 
 
 #  Acknowledgements
